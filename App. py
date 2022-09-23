@@ -1,3 +1,4 @@
 def() 
 print("Hello world ");
-Return ok;
+Return I=10
+
